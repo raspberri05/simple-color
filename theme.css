@@ -12,8 +12,3 @@ body {
 	--h6-color: #8fbcbb;
 	--text-color: #81a1c1;
 }
-
-.callout[data-callout="def"] {
-  --callout-color: 255, 255, 255;
-  --callout-icon: lucide-book-a;
-}
